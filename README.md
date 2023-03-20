@@ -94,7 +94,7 @@ git commit -a -m "v1 release"
 ```
 
 ```bash
-git push origin v1
+git push origin v1 
 ```
 
 Note: We recommend using the `--license` option for ncc, which will create a license file for all of the production node modules used in your project.
